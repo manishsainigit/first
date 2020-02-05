@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Editing same file on both branches at same line
+=======
+comminting in both branches
+>>>>>>> new_branch
